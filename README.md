@@ -16,3 +16,12 @@ So to build a FTP scanner with python module ftplib, one can follow these steps:
 4.If it succeeds, it returns a tuple of a username, password. 
 
 5.If it fails, it passes through the exception and continues to the next line.
+
+
+
+Userpass.txt
+
+This file contains only temorary passwords, you can use a good password file from internet.
+Its indented in a way that first before colon their is username and after colon password. 
+Do keep it in mind . 
+:)
